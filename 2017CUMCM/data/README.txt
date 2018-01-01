@@ -1,0 +1,7 @@
+所有TXT文件均需要由Sublime_text文件打开
+BpModel.model，BpModelComplete.model是模型文件
+loss_Bpmodel_Complete.txt，loss_Bpmodel_Price.txt是学习率损失值
+complete_predict_data.txt完成的预测值
+price_predict_data.txt价格预测值
+all_data_statics.txt，all_data_statics_ttex.txt为文件三预测值文件
+trained_score.txt表示训练后的值
